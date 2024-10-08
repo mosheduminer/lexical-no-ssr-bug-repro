@@ -1,6 +1,6 @@
 # Lexical no SSR bug repro
 
-This repository contains a reproduction of [this issue](https://github.com/mosheduminer/lexical-no-ssr-bug-repro).
+This repository contains a reproduction of [this issue](https://github.com/mosheduminer/lexical-solid/issues/20).
 
 ## Reproducing
 
